@@ -23,3 +23,8 @@ Instead it returns this
 > foo-112
 
 Reproduce the problem by running `./build.sh`, or directly via Maven: `mvn clean test`
+
+My environment:
+* Ubuntu Linux 16.04
+* Java version 1.8.0_144
+* Apache Maven 3.5.2
